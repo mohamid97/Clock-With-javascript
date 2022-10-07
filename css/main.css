@@ -21,3 +21,15 @@ body{
     box-shadow: 3px 4px 3px #2a2727;
 
 }
+
+/*** made by **/
+
+.madeBy{
+    display: block;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+.madeBy span{
+    color: red;
+}
